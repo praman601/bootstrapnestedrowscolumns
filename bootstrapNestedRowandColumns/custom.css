@@ -1,0 +1,16 @@
+﻿.sidebarContent {
+    background-color:brown;
+    text-align: center;
+    font-size: large;
+    min-height: 150px;
+    margin-bottom: 10px;
+    
+}
+
+.mainContent {
+    background-color: crimson;
+    text-align: center;
+    font-size: large;
+    min-height: 310px;
+    
+}
